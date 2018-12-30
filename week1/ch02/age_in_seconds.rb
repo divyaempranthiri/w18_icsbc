@@ -5,3 +5,4 @@
 
 
 ### Your Code Here ###
+puts 'UC Berkeley is ' +((128*365*24*3600)+(42*366*24*3600)+(40*7*24*3600)).to_s + ' seconds old.'

@@ -5,3 +5,5 @@
 
 
 ### Your Code Here ###
+
+puts "There are " + ((365.25*24).to_i).to_s + " hours in a year."

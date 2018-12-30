@@ -4,3 +4,6 @@
 
 
 ### Your Code Here ###
+puts "WHAT DO YOU WANT?? CAN\'T YOU SEE YOU\'RE INTERRUPTING!!"
+response=gets.chomp
+puts "ARE YOU SERIOUS? " + response.upcase + "??? " + "YOU\'RE FIRED! GET OUT OF MY SIGHT"
